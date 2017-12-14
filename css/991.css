@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 @media (max-width: 1024px){
+	.container-fluid{
+		padding-right: 0 !important;
+		padding-left: 0 !important;
+	}
 	.xhide{
 		display: none;
 	}

@@ -6843,6 +6843,7 @@ ul.nav.navbar-nav{
 .shape {
 	height: 94px;
 margin-top: -92px;
+margin-left: -15px;
 width: 100vw;
 /*margin-left: -15px;*/
 background-image: url(../svg/shape_v2.svg);
