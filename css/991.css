@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+@media (max-width: 1024px){
+	.xhide{
+		display: none;
+	}
+	.chrus-blau:after{
+		display: none;
+	}
+	.logo{
+		display:none;
+		
+	}
+	.erst,.zwei,.drei,.vier{
+		margin-top: 0;
+	}
+	.chrus-blau a{
+		font-size: 1em;
+	}
+	.logo_small{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;	
+	}
+	.event-date h1{
+	font-size: 26px;
+}
+
+
+.event-date {
+	top: 10vh;
+}
+}
+
+@media (max-width: 500px){
+	.small-hide{
+		display:none;
+	}
+	.vertical-bg,.shape,.out-shape,.decor,.shape-three{
+		display:none;
+	}
+	.vertical-menu{
+		display: none;
+	}
+	.slide-one{
+		background-attachment: scroll;
+		height: 50vh;
+	}
+	.chrus-blau{
+		height: 50px;
+	}
+	.slide-two,.slide-three{
+		height: 20vh;
+		background-attachment: scroll;
+	}
+	.round{
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 20px;
+	}
+}
+
