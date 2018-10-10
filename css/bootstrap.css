@@ -6853,9 +6853,9 @@ background-repeat: no-repeat;
 }
 .out-shape {
 	height: 148px;
-	margin-left: -225px;
 	position: absolute;
-	width: 150vw;
+  left:0;
+	width: 100vw;
 	background-image: url(../svg/shape_v3.svg);	
 	z-index: 0;
 	overflow: hidden;
@@ -7137,7 +7137,7 @@ iframe {
 }
 
 .intro-slide {
-	height: 90vh;
+	min-height: 90vh;
 	margin-top: 10vh;
 }
 
@@ -7286,3 +7286,4 @@ select{
 .slide-two.ce{
 	background-image: url(../bg3.jpg);
 }
+

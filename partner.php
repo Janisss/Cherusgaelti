@@ -124,8 +124,9 @@ einen Zeitraum von 3 Monaten bis zu einem Jahr präsent sind. </p>
   <div class="container">
 <h1>Co-sponsoren</h1><hr>
 <div class="row sponsor">
-	    	<div class="col-lg-6"><a href="http://www.garagewirz.ch" target="_blank"><img src="partner/new/garage.jpeg" class="center-block" style="max-width: 200px"></a></div>
-	    	<div class="col-lg-6"><a href="https://wop-shop.ch/de/shop-zunzgen" target="_blank"><img src="partner/new/wop.png" class="center-block" style="max-width: 200px;"></a></div>
+	    	<div class="col-lg-4"><a href="http://www.garagewirz.ch" target="_blank"><img src="partner/new/garage.jpeg" class="center-block" style="max-width: 200px"></a></div>
+	    	<div class="col-lg-4"><a href="https://wop-shop.ch/de/shop-zunzgen" target="_blank"><img src="partner/new/wop.png" class="center-block" style="max-width: 200px;"></a></div>
+			<div class="col-lg-4"><a href="http://slimaudio.ch" target="_blank"><img src="partner/new/2018/sse.jpeg" class="center-block" style="max-width: 200px;"></a></div>
 	    </div>
 <h1>Bühnensponsoren</h1><hr>
 <ul>
